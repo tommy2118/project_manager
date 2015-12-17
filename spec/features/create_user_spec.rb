@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.feature "users can create user account" do
+RSpec.feature "users can create account" do
   scenario "with valid input" do
 
     visit "/"
